@@ -1,0 +1,17 @@
+@font-face {
+  font-family: airbnb;
+  src: url("./assets/fonts/airbnb-cereal-app-medium.ttf");
+}
+
+@font-face {
+  font-family: EkselDisplay;
+  src: url("./assets/fonts/Eksell\ Display\ Medium.otf");
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
